@@ -2,7 +2,7 @@
 
 
 ## Screen 1
-![HomeScreen](./src/assets/Img2.png.png?raw=true "HomeScreen")
+![HomeScreen](./src/assets/Img2.png?raw=true "HomeScreen")
 ## Screen 2
-![ChatDetails](./src/assets/Img1.png.png?raw=true "ChatDetails")
+![ChatDetails](./src/assets/Img1.png?raw=true "ChatDetails")
 
