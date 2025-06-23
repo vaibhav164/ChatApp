@@ -10,9 +10,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "@cometchat/chat-sdk-react-native": "^4.0.14",
+    "@cometchat/chat-uikit-react-native": "^5.0.1",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-clipboard/clipboard": "^1.16.2",
+    "@react-native-community/datetimepicker": "^8.4.2",
+    "@react-native/new-app-screen": "0.80.0",
+    "dayjs": "^1.11.13",
     "react": "19.1.0",
     "react-native": "0.80.0",
-    "@react-native/new-app-screen": "0.80.0"
+    "react-native-svg": "^15.12.0",
+    "react-native-video": "^6.15.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
